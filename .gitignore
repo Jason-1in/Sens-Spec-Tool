@@ -1,2 +1,9 @@
-.DS_store
+.DS_Store
 notes.txt
+Planner.md
+.venv/
+.pytest_cache/
+__pycache__/
+venv/
+tutorial-env/
+.Rhistory
