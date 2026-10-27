@@ -8,6 +8,10 @@ changes the probability of disease, given prevalence, sensitivity and specificit
 
 <!-- Live demo:** //add later? -->
 
+## Live Demo
+**Live demo:** <https://sens-spec-tool-jfm22fg4anlxmby6sn7gqj.streamlit.app/>
+
+
 
 ## What it does
 - Inputs: pre-test probability (prevalence), sensitivity, specificity; all as a percentage 
@@ -66,3 +70,4 @@ streamlit run SS.py
 pip install -r requirements-dev.txt
 pytest test_cm.py
 ```
+
