@@ -25,18 +25,15 @@ At 10% prevalence, a positive result gives Z% probability of disease...
 ## Real Life Example 
 There is a wide range of sensitivity and specificity for the FOBT blood test used to screen colon cancer
 
-Using statistics reported by Morikawa et.al 2005
+Using statistics reported by Morikawa et. al. 2005
 
-Sensitivity of one day FOBT for invasive cancer: 65.8
+Sensitivity of one day iFOBT for invasive cancer: 65.8
 Specificity: 94.6
 
 *Note does not include precancerous and is not stratified for proximal and distal colon as in the study
 
-Invasive cancer was 0.4% of cases, adenomas in 16.5% of cases 
+Invasive cancer was 0.4% of population, adenomas in 16.5% of population
 
-Using the tool: 
-Probability of having the condition after a postiive result: 4.56% 
-Probability of having the condition after a negative results: 0.15%
 
 ![Screenshot of calculator showing FOBT results and charts](realworldexample.png)
 
@@ -89,4 +86,5 @@ pytest test_cm.py
 ```
 
 ## References
-Morikawa T, Kato J, Yamaji Y, Wada R, Mitsushima T, Shiratori Y (2005) A comparison of the immunochemical fecal occult blood test and total colonoscopy in the asymptomatic population. Gastroenterology 129: 422–428 
+Morikawa T, Kato J, Yamaji Y, Wada R, Mitsushima T, Shiratori Y. A comparison of the immunochemical fecal occult blood test and total colonoscopy in the asymptomatic population. Gastroenterology. 2005 Aug;129(2):422-8. doi: 10.1016/j.gastro.2005.05.056. PMID: 16083699.
+
